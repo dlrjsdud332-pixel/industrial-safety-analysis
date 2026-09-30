@@ -15,14 +15,6 @@
 - 사업장 규모별 사망사고 집중도 분석
 - 분석 결과를 기반으로 안전관리 우선 대상 제안
 
-## 사용 기술
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Visual Studio Code
 
 ## 데이터 개요
 
