@@ -12,6 +12,15 @@
 - 사업장 규모별 사망사고 집중도 분석
 - 분석 결과를 기반으로 안전관리 우선 대상 제안
 
+## 사용 기술
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Visual Studio Code
+
 ## 데이터 개요
 
 - 데이터 출처: 산업안전보건 관련 공공데이터
@@ -66,15 +75,6 @@
 산업재해 사망사고는 50인 미만 사업장과 건설업에 집중되어 있었습니다. 특히 떨어짐 사고가 사고성 사망 원인 중 가장 높은 비중을 차지했습니다.
 
 따라서 소규모 사업장을 우선 관리 대상으로 설정하고, 건설 현장의 추락 방지시설 점검과 보호구 착용 관리를 강화할 필요가 있습니다.
-
-## 사용 기술
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Visual Studio Code
 
 ## 프로젝트 구조
 
